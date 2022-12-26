@@ -1,0 +1,10 @@
+Материалы
+
+*.pyc
+__pycache__
+.venv
+*~
+/env
+/venv
+.idea
+.vscode
